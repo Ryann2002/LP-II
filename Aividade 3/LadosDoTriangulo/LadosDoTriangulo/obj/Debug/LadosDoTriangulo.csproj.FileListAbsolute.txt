@@ -1,0 +1,10 @@
+C:\Users\Ryan\source\repos\LadosDoTriangulo\LadosDoTriangulo\bin\Debug\LadosDoTriangulo.exe.config
+C:\Users\Ryan\source\repos\LadosDoTriangulo\LadosDoTriangulo\bin\Debug\LadosDoTriangulo.exe
+C:\Users\Ryan\source\repos\LadosDoTriangulo\LadosDoTriangulo\bin\Debug\LadosDoTriangulo.pdb
+C:\Users\Ryan\source\repos\LadosDoTriangulo\LadosDoTriangulo\obj\Debug\LadosDoTriangulo.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\LadosDoTriangulo\LadosDoTriangulo\obj\Debug\LadosDoTriangulo.Form1.resources
+C:\Users\Ryan\source\repos\LadosDoTriangulo\LadosDoTriangulo\obj\Debug\LadosDoTriangulo.Properties.Resources.resources
+C:\Users\Ryan\source\repos\LadosDoTriangulo\LadosDoTriangulo\obj\Debug\LadosDoTriangulo.csproj.GenerateResource.cache
+C:\Users\Ryan\source\repos\LadosDoTriangulo\LadosDoTriangulo\obj\Debug\LadosDoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\LadosDoTriangulo\LadosDoTriangulo\obj\Debug\LadosDoTriangulo.exe
+C:\Users\Ryan\source\repos\LadosDoTriangulo\LadosDoTriangulo\obj\Debug\LadosDoTriangulo.pdb

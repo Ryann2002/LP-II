@@ -1,0 +1,10 @@
+C:\Users\Ryan\source\repos\Pesoideal2\Pesoideal2\bin\Debug\Pesoideal2.exe.config
+C:\Users\Ryan\source\repos\Pesoideal2\Pesoideal2\bin\Debug\Pesoideal2.exe
+C:\Users\Ryan\source\repos\Pesoideal2\Pesoideal2\bin\Debug\Pesoideal2.pdb
+C:\Users\Ryan\source\repos\Pesoideal2\Pesoideal2\obj\Debug\Pesoideal2.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\Pesoideal2\Pesoideal2\obj\Debug\Pesoideal2.Form1.resources
+C:\Users\Ryan\source\repos\Pesoideal2\Pesoideal2\obj\Debug\Pesoideal2.Properties.Resources.resources
+C:\Users\Ryan\source\repos\Pesoideal2\Pesoideal2\obj\Debug\Pesoideal2.csproj.GenerateResource.cache
+C:\Users\Ryan\source\repos\Pesoideal2\Pesoideal2\obj\Debug\Pesoideal2.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\Pesoideal2\Pesoideal2\obj\Debug\Pesoideal2.exe
+C:\Users\Ryan\source\repos\Pesoideal2\Pesoideal2\obj\Debug\Pesoideal2.pdb

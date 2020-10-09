@@ -1,0 +1,10 @@
+C:\Users\Ryan\source\repos\salario\salario\bin\Debug\salario.exe.config
+C:\Users\Ryan\source\repos\salario\salario\bin\Debug\salario.exe
+C:\Users\Ryan\source\repos\salario\salario\bin\Debug\salario.pdb
+C:\Users\Ryan\source\repos\salario\salario\obj\Debug\salario.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\salario\salario\obj\Debug\salario.Form1.resources
+C:\Users\Ryan\source\repos\salario\salario\obj\Debug\salario.Properties.Resources.resources
+C:\Users\Ryan\source\repos\salario\salario\obj\Debug\salario.csproj.GenerateResource.cache
+C:\Users\Ryan\source\repos\salario\salario\obj\Debug\salario.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\salario\salario\obj\Debug\salario.exe
+C:\Users\Ryan\source\repos\salario\salario\obj\Debug\salario.pdb

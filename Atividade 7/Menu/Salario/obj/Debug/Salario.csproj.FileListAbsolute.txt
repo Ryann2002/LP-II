@@ -1,0 +1,14 @@
+C:\Users\ryanf\source\repos\Salario\Salario\bin\Debug\Salario.exe.config
+C:\Users\ryanf\source\repos\Salario\Salario\bin\Debug\Salario.exe
+C:\Users\ryanf\source\repos\Salario\Salario\bin\Debug\Salario.pdb
+C:\Users\ryanf\source\repos\Salario\Salario\obj\Debug\Salario.csprojAssemblyReference.cache
+C:\Users\ryanf\source\repos\Salario\Salario\obj\Debug\Salario.Form1.resources
+C:\Users\ryanf\source\repos\Salario\Salario\obj\Debug\Salario.Properties.Resources.resources
+C:\Users\ryanf\source\repos\Salario\Salario\obj\Debug\Salario.csproj.GenerateResource.cache
+C:\Users\ryanf\source\repos\Salario\Salario\obj\Debug\Salario.csproj.CoreCompileInputs.cache
+C:\Users\ryanf\source\repos\Salario\Salario\obj\Debug\Salario.exe
+C:\Users\ryanf\source\repos\Salario\Salario\obj\Debug\Salario.pdb
+C:\Users\ryanf\source\repos\Salario\Salario\obj\Debug\Salario.Frnexercicio2.resources
+C:\Users\ryanf\source\repos\Salario\Salario\obj\Debug\Salario.FrmExercicio3.resources
+C:\Users\ryanf\source\repos\Salario\Salario\obj\Debug\Salario.FrmExercicio4.resources
+C:\Users\ryanf\source\repos\Salario\Salario\obj\Debug\Salario.FrmExercicio5.resources

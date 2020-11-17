@@ -1,0 +1,10 @@
+C:\Users\Ryan\source\repos\P0030482011038\P0030482011038\bin\Debug\P0030482011038.exe.config
+C:\Users\Ryan\source\repos\P0030482011038\P0030482011038\bin\Debug\P0030482011038.exe
+C:\Users\Ryan\source\repos\P0030482011038\P0030482011038\bin\Debug\P0030482011038.pdb
+C:\Users\Ryan\source\repos\P0030482011038\P0030482011038\obj\Debug\P0030482011038.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\P0030482011038\P0030482011038\obj\Debug\P0030482011038.Form1.resources
+C:\Users\Ryan\source\repos\P0030482011038\P0030482011038\obj\Debug\P0030482011038.Properties.Resources.resources
+C:\Users\Ryan\source\repos\P0030482011038\P0030482011038\obj\Debug\P0030482011038.csproj.GenerateResource.cache
+C:\Users\Ryan\source\repos\P0030482011038\P0030482011038\obj\Debug\P0030482011038.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\P0030482011038\P0030482011038\obj\Debug\P0030482011038.exe
+C:\Users\Ryan\source\repos\P0030482011038\P0030482011038\obj\Debug\P0030482011038.pdb

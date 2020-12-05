@@ -1,0 +1,12 @@
+C:\Users\Ryan\source\repos\PF_030482011038\PF_030482011038\bin\Debug\PF_030482011038.exe.config
+C:\Users\Ryan\source\repos\PF_030482011038\PF_030482011038\bin\Debug\PF_030482011038.exe
+C:\Users\Ryan\source\repos\PF_030482011038\PF_030482011038\bin\Debug\PF_030482011038.pdb
+C:\Users\Ryan\source\repos\PF_030482011038\PF_030482011038\obj\Debug\PF_030482011038.csprojAssemblyReference.cache
+C:\Users\Ryan\source\repos\PF_030482011038\PF_030482011038\obj\Debug\PF_030482011038.Properties.Resources.resources
+C:\Users\Ryan\source\repos\PF_030482011038\PF_030482011038\obj\Debug\PF_030482011038.csproj.GenerateResource.cache
+C:\Users\Ryan\source\repos\PF_030482011038\PF_030482011038\obj\Debug\PF_030482011038.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\source\repos\PF_030482011038\PF_030482011038\obj\Debug\PF_030482011038.exe
+C:\Users\Ryan\source\repos\PF_030482011038\PF_030482011038\obj\Debug\PF_030482011038.pdb
+C:\Users\Ryan\source\repos\PF_030482011038\PF_030482011038\obj\Debug\PF_030482011038.frmPrincipal.resources
+C:\Users\Ryan\source\repos\PF_030482011038\PF_030482011038\obj\Debug\PF_030482011038.frmCadastro.resources
+C:\Users\Ryan\source\repos\PF_030482011038\PF_030482011038\obj\Debug\PF_030482011038.frmAbout.resources
